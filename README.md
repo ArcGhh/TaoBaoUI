@@ -18,5 +18,10 @@
 
 ![](https://raw.githubusercontent.com/gnehsuy/TaoBaoUI/master/Images/Screenshot_2016-11-30-14-37-56_com.yus.taobaoui.png)
 
-如果你觉得有帮助的话，可以赞赏支持一下我。
-![](https://raw.githubusercontent.com/gnehsuy/TaoBaoUI/master/Images/weChat.jpg)
+**如果你觉得有帮助的话，可以赞赏支持一下我。**
+
+**支付宝**
+![](https://raw.githubusercontent.com/gnehsuy/TaoBaoUI/master/aliPay.jpg)
+
+**微信赞赏**
+![](https://raw.githubusercontent.com/gnehsuy/TaoBaoUI/master/weChat.jpg)
